@@ -6,9 +6,9 @@ I’m a software engineer and founder who loves building simple, fast, and relia
 
 ## Founder
 
-**[Peewah](https://peewah.co)** — Event tech platform that helps organizers run high‑impact corporate events with ticketing, registration, and engagement tools.
+**[Peewah](https://peewah.co)** — Event tech platform that helps organizers run high‑impact corporate events with ticketing, registration, and engagement tools in LATAM.
 
-**[Trutix](https://trutix.co)** — Peer‑to‑peer ticket trading platform for safe and transparent event resale.
+**[Trutix](https://trutix.co)** — Peer‑to‑peer ticket trading platform for safe and transparent event resale in LATAM.
 
 ---
 
