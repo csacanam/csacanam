@@ -4,28 +4,18 @@ I’m a software engineer and founder who loves building simple, fast, and relia
 
 ---
 
-## Founder
+## Web2
 
-**[Peewah](https://peewah.co)** — Event tech platform that helps organizers run high‑impact corporate events with ticketing, registration, and engagement tools in LATAM.
-
-**[Trutix](https://trutix.co)** — Peer‑to‑peer ticket trading platform for safe and transparent event resale in LATAM.
+**[Peewah](https://peewah.co)** — All-in-one event management software for corporates in LATAM.
 
 ---
 
-## Side Projects — Traditional
-
-**[TutelaEnLinea.com](https://tutelaenlinea.com)** — Online legal document service for Colombia *(fully operational)*.
-A guided flow to create *tutelas* and *derechos de petición*, with automated document generation and WhatsApp integration.
-
-**[LineupMatch](https://lineupmatch.com)** — Festival & concert discovery that matches lineups to your music taste *(fully operational)*.
-Compare lineups, build your schedule, and uncover new artists.
-
----
-
-## Side Projects — Crypto
+## Web3
 
 **[Voulti](https://voulti.com)** — Stablecoin payments that work like Stripe *(in development, currently on testnet)*.
 Helping businesses in LATAM accept USDC and USDT seamlessly, starting with Base, Polygon, and Celo integrations.
+
+**[Trutix P2P](https://trutix.co)** — Trustless P2P Ticket Trading.
 
 **[Lotero](https://github.com/csacanam/lotero-core)** — Onchain platform for lotteries and raffles *(in development, not yet deployed to testnet)*, combining transparency with accessibility.
 
