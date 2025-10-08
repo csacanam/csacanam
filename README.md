@@ -6,18 +6,17 @@ I’m a software engineer and founder who loves building simple, fast, and relia
 
 ## Web2
 
-**[Peewah](https://peewah.co)** — All-in-one event management software for corporates in LATAM.
+**[Peewah](https://peewah.co)** — All-in-one event management software for corporates in LATAM. 
 
 ---
 
 ## Web3
 
-**[Voulti](https://voulti.com)** — Stablecoin payments that work like Stripe *(in development, currently on testnet)*.
-Helping businesses in LATAM accept USDC and USDT seamlessly, starting with Base, Polygon, and Celo integrations.
+**[Voulti](https://voulti.com)** — Crypto Payment Gateway. Deployed in Celo Alfajores [Testnet].
 
-**[Trutix P2P](https://trutix.co)** — Trustless P2P Ticket Trading.
+**[Trutix P2P](https://trutix.co)** — Trustless P2P Ticket Trading. Deployed in Base Sepolia [Testnet].
 
-**[Lotero](https://github.com/csacanam/lotero-core)** — Onchain platform for lotteries and raffles *(in development, not yet deployed to testnet)*, combining transparency with accessibility.
+**[Lotero](https://github.com/csacanam/lotero-core)** — Decentralized Casino. Deployed in Base Sepolia [Testnet].
 
 ---
 
