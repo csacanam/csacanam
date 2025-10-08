@@ -14,9 +14,7 @@ I’m a software engineer and founder who loves building simple, fast, and relia
 
 **[Voulti](https://voulti.com)** — Crypto Payment Gateway. Deployed in Celo Alfajores [Testnet].
 
-**[Trutix P2P](https://trutix.co)** — Trustless P2P Ticket Trading. Deployed in Base Sepolia [Testnet].
-
-**[Lotero](https://github.com/csacanam/lotero-core)** — Decentralized Casino. Deployed in Base Sepolia [Testnet].
+**[Trutix P2P](https://trutix.co)** — Trustless P2P Ticket Trading. Deployed in Base [Mainnet].
 
 ---
 
