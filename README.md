@@ -21,4 +21,3 @@ I’m a software engineer and founder who loves building simple, fast, and relia
 ## Contact
 
 * X / Twitter: [x.com/camilosaka](https://x.com/camilosaka)
-* Farcaster: [farcaster.xyz/camilosaka](https://farcaster.xyz/camilosaka)
